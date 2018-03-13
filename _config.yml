@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
-SEOTitle: stoc-king的博客 | BY Blog
+title: Stoc_King
+SEOTitle: Stoc_King official website
 header-img: img/post-bg-desk.jpg
 email: stoc.king.ensta@gmail.com
-description: "Every failure is leading towards success."
-keyword: "start-up"
+description: "Your private AI consultant for investment."
+keyword: "start-up" 'AI' 'Finance'
 url: "http://stoc-king.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/stoc-king/stoc-king.github.io.git" # you code repository
@@ -62,11 +62,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: 5604fc3296ea882661c7                          #生成的clientID
+  clientSecret: 56fa71505c32b4c5fa90f4bb5e69846f421f7233    #生成的clientSecret
+  repo: Stoc-King.github.io/   #仓库名称
+  owner: Stoc-King  #github用户名
+  admin: Stoc-King
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -86,7 +86,7 @@ ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定�
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+featured-condition-size: 0              # 相同标签数量大于这个数，才会出现在首页
 
 
 
