@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 5604fc3296ea882661c7                          #生成的clientID
-  clientSecret: 56fa71505c32b4c5fa90f4bb5e69846f421f7233    #生成的clientSecret
+  clientID: c0eebe21066cd52fe118                        #生成的clientID
+  clientSecret: 67f1c3ef348384565342321dc4d8cdd74ca8ff24   #生成的clientSecret
   repo: Stoc-King.github.io   #仓库名称
   owner: Stoc-King  #github用户名
   admin: Stoc-King
