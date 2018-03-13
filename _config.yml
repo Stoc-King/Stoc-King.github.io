@@ -1,5 +1,5 @@
 # Site settings
-title: BY Blog
+title: Stoc_King
 SEOTitle: 柏荧的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
 email: stoc.king.ensta@gmail.com
@@ -64,7 +64,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 5604fc3296ea882661c7                          #生成的clientID
   clientSecret: 56fa71505c32b4c5fa90f4bb5e69846f421f7233    #生成的clientSecret
-  repo: Stoc-King.github.io/   #仓库名称
+  repo: Stoc-King.github.io   #仓库名称
   owner: Stoc-King  #github用户名
   admin: Stoc-King
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
