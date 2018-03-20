@@ -1,13 +1,13 @@
 ---
 layout:     post
-title:      Document du marché
-subtitle:   Business plan
+title:      Team introduction
+subtitle:   Four members with diverse backgrounds
 date:       2018-03-12
-author:     Stoc_King
+author:     Team of Stoc_King
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
-    - Business plan
+    - Team
 ---
 
->Business plan du Stoc_King
+>Team introduction
