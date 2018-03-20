@@ -10,4 +10,4 @@ tags:
     - Team
 ---
 
->Team introduction
+>None of us is as smart as all of us
